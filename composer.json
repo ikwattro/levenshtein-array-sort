@@ -2,6 +2,7 @@
     "name": "v-bartusevicius/levenshtein-array-sort",
     "type": "library",
     "description": "Sorts haystack with strings by Levenshtein distance to needle",
+    "license": "GPL-2.0",
     "keywords": ["levenshtein", "array", "sort"],
     "authors": [
         {
