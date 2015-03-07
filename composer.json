@@ -1,0 +1,29 @@
+{
+    "name": "v-bartusevicius/levenshtein-array-sort",
+    "type": "library",
+    "description": "Sorts haystack with strings by Levenshtein distance to needle",
+    "keywords": ["levenshtein", "array", "sort"],
+    "authors": [
+        {
+            "name": "Valentinas Bartusevičius",
+            "email": "valentui@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "VBartusevicius\\Levenshtein": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    }
+}
